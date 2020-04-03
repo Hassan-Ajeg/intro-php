@@ -14,6 +14,7 @@
 <body>
     <h1>Bonjour !</h1>
 <?php
+
     
     $now = date('d/m/Y');
     $name = $_GET["name"];
